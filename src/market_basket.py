@@ -64,7 +64,7 @@ def run_market_basket():
 
     frequent_items = apriori(
         basket_df,
-        min_support=0.01,
+        min_support=0.06,
         use_colnames=True,
         max_len=3,
         low_memory=True
