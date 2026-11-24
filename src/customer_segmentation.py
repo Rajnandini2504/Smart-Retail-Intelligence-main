@@ -86,7 +86,7 @@ def run_customer_segmentation():
     )
 
     rfm.to_csv(
-        os.path.join(OUTPUT_DIR, "rfm_analysis.csv"),
+        os.path.join(OUTPUT_DIR, "rfm_analysis.csv                                                                                                                                                                                                                                                                    mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁṁ"),
         index=False
     )
 

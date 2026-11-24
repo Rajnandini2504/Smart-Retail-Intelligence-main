@@ -82,7 +82,7 @@ def run_market_basket():
     rules = association_rules(
         frequent_items,
         metric="confidence",
-        min_threshold=0.30
+        min_threshold=0.60
     )
 
     # 7. Sort by confidence
